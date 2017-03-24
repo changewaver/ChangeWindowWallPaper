@@ -1,0 +1,6 @@
+A:\project\WinidowsScript\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe.config
+A:\project\WinidowsScript\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe
+A:\project\WinidowsScript\Wallpaper\Wallpaper\bin\Debug\Wallpaper.pdb
+A:\project\WinidowsScript\Wallpaper\Wallpaper\obj\Debug\Wallpaper.csprojResolveAssemblyReference.cache
+A:\project\WinidowsScript\Wallpaper\Wallpaper\obj\Debug\Wallpaper.exe
+A:\project\WinidowsScript\Wallpaper\Wallpaper\obj\Debug\Wallpaper.pdb
